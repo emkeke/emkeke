@@ -1,5 +1,5 @@
 ### Hello World!
-<h1 style="color:green;"> Emma Käck is my name and I am a Front End Developer student </h1>
+<h1 style="color:green;"> Emma is my name and I am a Front End Developer student </h1>
 <img src="https://user-images.githubusercontent.com/94171464/151562552-39970616-3bd3-4df8-a474-a45c00e58869.gif" width= "1200" height="300">
 
 <!--![Github gif bricks](https://user-images.githubusercontent.com/94171464/151562552-39970616-3bd3-4df8-a474-a45c00e58869.gif)-->
